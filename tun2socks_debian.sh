@@ -9,7 +9,7 @@ IP_ADDR=198.18.1.254/15
 PROXY_ADDR=127.0.0.1
 PROXY_PORT=1080
 TUN2SOCKS_ZIP=tun2socks-linux-amd64.zip
-TUN2SOCKS_URL=https://github.com/xjasonlyu/tun2socks/releases/download/v2.5.2/$TUN2SOCKS_ZIP
+TUN2SOCKS_URL=https://gh.cooluc.com/https://github.com/xjasonlyu/tun2socks/releases/download/v2.5.2/$TUN2SOCKS_ZIP
 
 
 wget --show-progress -t 5 -T 10 -cqO $TUN2SOCKS_ZIP $TUN2SOCKS_URL
